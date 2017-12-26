@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Deutsch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+digitalLesen	KEYWORD2
+digitalSchreiben	KEYWORD2
+warten	KEYWORD2
+analogLesen	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LESEN	LITERAL1
+SCHREIBEN	LITERAL1
+EINGEBAUTE_LED	LITERAL1
